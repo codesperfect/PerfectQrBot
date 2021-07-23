@@ -167,7 +167,7 @@ Perform Reset option
   - Thank you Happy coding.
 
 # **License**
-Copyright (c) 2021 Praveen and others
+Copyright (c) 2021 Praveen and team.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
