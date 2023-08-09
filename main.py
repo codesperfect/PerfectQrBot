@@ -283,7 +283,7 @@ def report_bug(m):
     msg = '''
 <code>
 🥰 Thank You for using our bot.
-If you like our bot kindly share to your friends and family and report problems and bugs at praveen@codesperfect.com.
+If you like our bot kindly share to your friends and family and report problems and bugs at @codesperfect.
 </code>
 Thank You!.    
     '''

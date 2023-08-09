@@ -1,4 +1,4 @@
-# [**Perfect Qr Bot**](https://t.me/perfectqrbot) (Version 1.0.0)
+# [**Perfect Qr Bot**](https://t.me/perfectqrbot) (Version 2.0.0)
 
 #### Powered By Codesperfect.com
 
